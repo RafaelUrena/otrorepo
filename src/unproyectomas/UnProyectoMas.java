@@ -15,7 +15,15 @@ public class UnProyectoMas {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        int n  = 0;
+        
+        for (int i = 0; i < 10; i++) {
+            n = i;
+        }
+        
+        if(n >= 10 ){
+            System.out.println("Hola");
+        }
     }
     
 }
