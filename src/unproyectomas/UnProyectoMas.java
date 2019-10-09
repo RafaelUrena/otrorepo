@@ -16,13 +16,15 @@ public class UnProyectoMas {
      */
     public static void main(String[] args) {
         int n  = 0;
+        Ayuda help = new Ayuda("Urgente","Quiero volver a casa");
         
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < 11; i++) {
             n = i;
         }
         
         if(n >= 10 ){
             System.out.println("Hola");
+            System.out.println(help);
         }
     }
     
