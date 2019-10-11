@@ -33,12 +33,10 @@ public class Ayuda {
     public void setMensaje(String mensaje) {
         this.mensaje = mensaje;
     }
-    
-    
 
     @Override
     public String toString() {
-        return "Ayuda{" + "tipo=" + tipo + ", mensaje=" + mensaje + '}';
+        return "Ayuda a Carlos" + "tipo=" + tipo + ", Apadrina un niño=" + mensaje + '}';
     }
     
     

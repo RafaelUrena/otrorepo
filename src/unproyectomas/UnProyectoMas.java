@@ -23,7 +23,7 @@ public class UnProyectoMas {
         }
         
         if(n >= 10 ){
-            System.out.println("Hola");
+            System.out.println("Esto no ayuda en na");
             System.out.println(help);
         }
         
