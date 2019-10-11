@@ -26,6 +26,10 @@ public class UnProyectoMas {
             System.out.println("Hola");
             System.out.println(help);
         }
+        
+        help.setMensaje("Esto es el 112?");
+        
+        System.out.println(help);
     }
     
 }
