@@ -28,7 +28,8 @@ public class UnProyectoMas {
         }
         
         help.setMensaje("Esto es el 112?");
-        
+        help.setMensaje("AYUDA");
+
         System.out.println(help);
     }
     
